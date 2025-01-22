@@ -1,0 +1,3 @@
+sudo nano /etc/dnf/dnf.conf
+add: 
+"installonly_limit=1"
